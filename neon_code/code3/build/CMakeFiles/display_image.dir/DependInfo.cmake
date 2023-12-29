@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kylin/桌面/try/neon_code/code3/main.cpp" "/home/kylin/桌面/try/neon_code/code3/build/CMakeFiles/display_image.dir/main.cpp.o"
+  "/home/kylin/gitfile/neon_code/code3/main.cpp" "/home/kylin/gitfile/neon_code/code3/build/CMakeFiles/display_image.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

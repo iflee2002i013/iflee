@@ -1,4 +1,4 @@
-# Install script for directory: /home/kylin/桌面/try/neon_code/code3
+# Install script for directory: /home/kylin/gitfile/neon_code/code3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kylin/桌面/try/neon_code/code3/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kylin/gitfile/neon_code/code3/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
