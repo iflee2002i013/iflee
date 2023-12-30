@@ -1,0 +1,3 @@
+/home/kylin/gitfile/neon_code/neon4/build/CMakeFiles/rebuild_cache.dir
+/home/kylin/gitfile/neon_code/neon4/build/CMakeFiles/edit_cache.dir
+/home/kylin/gitfile/neon_code/neon4/build/CMakeFiles/display_image.dir
